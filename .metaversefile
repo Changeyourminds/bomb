@@ -1,0 +1,24 @@
+{
+  "name": "bomb",
+  "start_url": "bomb.glb",
+  "components": [
+    {
+      "key": "wear",
+      "value": {
+        "boneAttachment": "spine",
+        "position": [0.4, 0.7, -0.2],
+        "quaternion": [0, 0, 0.9510565162951535, 0.30901699437494745]
+      }
+    },
+    {
+      "key": "use",
+      "value": {
+        "animation": "drink",
+        "boneAttachment": "leftHand",
+        "position": [0, 0, 0],
+        "quaternion": [0, 0, 0, 1],
+        "scale": [1, 1, 1]
+      }
+    }
+  ]
+}
