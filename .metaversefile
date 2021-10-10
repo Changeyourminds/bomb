@@ -5,9 +5,9 @@
     {
       "key": "wear",
       "value": {
-        "boneAttachment": "spine",
-        "position": [0.4, 0.7, -0.2],
-        "quaternion": [0, 0, 0.9510565162951535, 0.30901699437494745]
+        "boneAttachment": "leftHand",
+        "position": [0, 0, 0],
+        "quaternion": [0, 0, 0, 1]
       }
     },
     {
