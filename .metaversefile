@@ -13,7 +13,7 @@
     {
       "key": "use",
       "value": {
-        "animation": "drink",
+        "animation": "throw",
         "boneAttachment": "leftHand",
         "position": [0, 0, 0],
         "quaternion": [0, 0, 0, 1],
