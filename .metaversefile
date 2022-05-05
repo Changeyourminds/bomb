@@ -1,5 +1,6 @@
 {
   "name": "bomb",
+  "description": "bomb",
   "start_url": "bomb.glb",
   "components": [
     {
