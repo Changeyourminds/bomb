@@ -1,7 +1,7 @@
 {
   "name": "bomb",
   "description": "bomb",
-  "start_url": "bomb.glb",
+  "start_url": "mybomb.glb",
   "components": [
     {
       "key": "wear",
